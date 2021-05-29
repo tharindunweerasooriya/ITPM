@@ -21,6 +21,8 @@ import javax.swing.JOptionPane;
  * @author USER
  */
 public class NotLocAdd extends javax.swing.JFrame {
+    
+    
 
     Connection con= null;
     PreparedStatement pst=null;
