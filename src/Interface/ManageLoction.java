@@ -6,7 +6,6 @@
 package Interface;
 
 import Code.DBconnector;
-import static Interface.AddLocation.MySqlConnection;
 import java.awt.Toolkit;
 import java.awt.event.WindowEvent;
 import java.sql.Connection;

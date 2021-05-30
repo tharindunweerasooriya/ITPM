@@ -31,7 +31,7 @@ public class ManageSession extends javax.swing.JFrame {
     public ManageSession() {
         initComponents();
         conn = DBconnector.Connect();
-        tableloade();
+        
     }
 
     /**

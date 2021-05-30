@@ -17,7 +17,6 @@ import java.util.Date;
 import javax.swing.JOptionPane;
 import javax.swing.JTable;
 import javax.swing.table.TableColumnModel;
-import javax.swing.table.TableModel;
 import net.proteanit.sql.DbUtils;
 
 /**

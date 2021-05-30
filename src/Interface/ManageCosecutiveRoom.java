@@ -29,8 +29,7 @@ public class ManageCosecutiveRoom extends javax.swing.JFrame {
     public ManageCosecutiveRoom() {
         initComponents();
         conn = DBconnector.Connect();
-        fillsesions1();
-        fillsesions2();
+        
     }
 
     /**

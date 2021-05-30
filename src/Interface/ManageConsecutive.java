@@ -29,7 +29,7 @@ public class ManageConsecutive extends javax.swing.JFrame {
     public ManageConsecutive() {
         initComponents();
         conn = DBconnector.Connect();
-        tableloade();
+        
     }
 
     /**
