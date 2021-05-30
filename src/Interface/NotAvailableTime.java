@@ -21,6 +21,7 @@ import javax.swing.JOptionPane;
  *
  * @author USER
  */
+//main method
 public class NotAvailableTime extends javax.swing.JFrame {
 
     Connection con= null;
@@ -36,6 +37,7 @@ public class NotAvailableTime extends javax.swing.JFrame {
         con = DBconect_1.connect();
         lecturerComboBox();
         groupComboBox();
+        
         subGroupComboBox();
         sessionComboBox();
     }
